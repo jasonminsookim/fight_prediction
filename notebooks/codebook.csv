@@ -1,0 +1,227 @@
+,Variable IDs,Variable Labels
+0,Unnamed: 0,Unnamed: 0
+1,fighter_1,fighter 1
+2,fighter_2,fighter 2
+3,winner,winner
+4,url,url
+5,date,date
+6,f1_r1_kds,fighter 1 round 1 knockdowns
+7,f1_r1_sigstrikes_l,fighter 1 round 1 significant strikes landed
+8,f1_r1_sigstrikes_a,fighter 1 round 1 significant strikes attempts
+9,f1_r1_strikes_l,fighter 1 round 1 strikes landed
+10,f1_r1_strikes_a,fighter 1 round 1 strikes attempts
+11,f1_r1_tds_l,fighter 1 round 1 takedowns landed
+12,f1_r1_tds_a,fighter 1 round 1 takedowns attempts
+13,f1_r1_subs_a,fighter 1 round 1 submissions attempts
+14,f1_r1_passes,fighter 1 round 1 passes
+15,f1_r1_revs,fighter 1 round 1 reversals
+16,f1_r1_ss_head_l,fighter 1 round 1 significant strikes to the head landed
+17,f1_r1_ss_head_a,fighter 1 round 1 significant strikes to the head attempts
+18,f1_r1_ss_body_l,fighter 1 round 1 significant strikes to the body landed
+19,f1_r1_ss_body_a,fighter 1 round 1 significant strikes to the body attempts
+20,f1_r1_ss_leg_l,fighter 1 round 1 significant strikes to the leg landed
+21,f1_r1_ss_leg_a,fighter 1 round 1 significant strikes to the leg attempts
+22,f1_r1_ss_dist_l,fighter 1 round 1 significant strikes dist landed
+23,f1_r1_ss_dist_a,fighter 1 round 1 significant strikes dist attempts
+24,f1_r1_ss_clinch_l,fighter 1 round 1 significant strikes from clinch landed
+25,f1_r1_ss_clinch_a,fighter 1 round 1 significant strikes from clinch attempts
+26,f1_r1_ss_ground_l,fighter 1 round 1 significant strikes from ground landed
+27,f1_r1_ss_ground_a,fighter 1 round 1 significant strikes from ground attempts
+28,f2_r1_kds,fighter 2 round 1 knockdowns
+29,f2_r1_sigstrikes_l,fighter 2 round 1 significant strikes landed
+30,f2_r1_sigstrikes_a,fighter 2 round 1 significant strikes attempts
+31,f2_r1_strikes_l,fighter 2 round 1 strikes landed
+32,f2_r1_strikes_a,fighter 2 round 1 strikes attempts
+33,f2_r1_tds_l,fighter 2 round 1 takedowns landed
+34,f2_r1_tds_a,fighter 2 round 1 takedowns attempts
+35,f2_r1_subs_a,fighter 2 round 1 submissions attempts
+36,f2_r1_passes,fighter 2 round 1 passes
+37,f2_r1_revs,fighter 2 round 1 reversals
+38,f2_r1_ss_head_l,fighter 2 round 1 significant strikes to the head landed
+39,f2_r1_ss_head_a,fighter 2 round 1 significant strikes to the head attempts
+40,f2_r1_ss_body_l,fighter 2 round 1 significant strikes to the body landed
+41,f2_r1_ss_body_a,fighter 2 round 1 significant strikes to the body attempts
+42,f2_r1_ss_leg_l,fighter 2 round 1 significant strikes to the leg landed
+43,f2_r1_ss_leg_a,fighter 2 round 1 significant strikes to the leg attempts
+44,f2_r1_ss_dist_l,fighter 2 round 1 significant strikes dist landed
+45,f2_r1_ss_dist_a,fighter 2 round 1 significant strikes dist attempts
+46,f2_r1_ss_clinch_l,fighter 2 round 1 significant strikes from clinch landed
+47,f2_r1_ss_clinch_a,fighter 2 round 1 significant strikes from clinch attempts
+48,f2_r1_ss_ground_l,fighter 2 round 1 significant strikes from ground landed
+49,f2_r1_ss_ground_a,fighter 2 round 1 significant strikes from ground attempts
+50,f1_r2_kds,fighter 1 round 2 knockdowns
+51,f1_r2_sigstrikes_l,fighter 1 round 2 significant strikes landed
+52,f1_r2_sigstrikes_a,fighter 1 round 2 significant strikes attempts
+53,f1_r2_strikes_l,fighter 1 round 2 strikes landed
+54,f1_r2_strikes_a,fighter 1 round 2 strikes attempts
+55,f1_r2_tds_l,fighter 1 round 2 takedowns landed
+56,f1_r2_tds_a,fighter 1 round 2 takedowns attempts
+57,f1_r2_subs_a,fighter 1 round 2 submissions attempts
+58,f1_r2_passes,fighter 1 round 2 passes
+59,f1_r2_revs,fighter 1 round 2 reversals
+60,f1_r2_ss_head_l,fighter 1 round 2 significant strikes to the head landed
+61,f1_r2_ss_head_a,fighter 1 round 2 significant strikes to the head attempts
+62,f1_r2_ss_body_l,fighter 1 round 2 significant strikes to the body landed
+63,f1_r2_ss_body_a,fighter 1 round 2 significant strikes to the body attempts
+64,f1_r2_ss_leg_l,fighter 1 round 2 significant strikes to the leg landed
+65,f1_r2_ss_leg_a,fighter 1 round 2 significant strikes to the leg attempts
+66,f1_r2_ss_dist_l,fighter 1 round 2 significant strikes dist landed
+67,f1_r2_ss_dist_a,fighter 1 round 2 significant strikes dist attempts
+68,f1_r2_ss_clinch_l,fighter 1 round 2 significant strikes from clinch landed
+69,f1_r2_ss_clinch_a,fighter 1 round 2 significant strikes from clinch attempts
+70,f1_r2_ss_ground_l,fighter 1 round 2 significant strikes from ground landed
+71,f1_r2_ss_ground_a,fighter 1 round 2 significant strikes from ground attempts
+72,f2_r2_kds,fighter 2 round 2 knockdowns
+73,f2_r2_sigstrikes_l,fighter 2 round 2 significant strikes landed
+74,f2_r2_sigstrikes_a,fighter 2 round 2 significant strikes attempts
+75,f2_r2_strikes_l,fighter 2 round 2 strikes landed
+76,f2_r2_strikes_a,fighter 2 round 2 strikes attempts
+77,f2_r2_tds_l,fighter 2 round 2 takedowns landed
+78,f2_r2_tds_a,fighter 2 round 2 takedowns attempts
+79,f2_r2_subs_a,fighter 2 round 2 submissions attempts
+80,f2_r2_passes,fighter 2 round 2 passes
+81,f2_r2_revs,fighter 2 round 2 reversals
+82,f2_r2_ss_head_l,fighter 2 round 2 significant strikes to the head landed
+83,f2_r2_ss_head_a,fighter 2 round 2 significant strikes to the head attempts
+84,f2_r2_ss_body_l,fighter 2 round 2 significant strikes to the body landed
+85,f2_r2_ss_body_a,fighter 2 round 2 significant strikes to the body attempts
+86,f2_r2_ss_leg_l,fighter 2 round 2 significant strikes to the leg landed
+87,f2_r2_ss_leg_a,fighter 2 round 2 significant strikes to the leg attempts
+88,f2_r2_ss_dist_l,fighter 2 round 2 significant strikes dist landed
+89,f2_r2_ss_dist_a,fighter 2 round 2 significant strikes dist attempts
+90,f2_r2_ss_clinch_l,fighter 2 round 2 significant strikes from clinch landed
+91,f2_r2_ss_clinch_a,fighter 2 round 2 significant strikes from clinch attempts
+92,f2_r2_ss_ground_l,fighter 2 round 2 significant strikes from ground landed
+93,f2_r2_ss_ground_a,fighter 2 round 2 significant strikes from ground attempts
+94,f1_r3_kds,fighter 1 round 3 knockdowns
+95,f1_r3_sigstrikes_l,fighter 1 round 3 significant strikes landed
+96,f1_r3_sigstrikes_a,fighter 1 round 3 significant strikes attempts
+97,f1_r3_strikes_l,fighter 1 round 3 strikes landed
+98,f1_r3_strikes_a,fighter 1 round 3 strikes attempts
+99,f1_r3_tds_l,fighter 1 round 3 takedowns landed
+100,f1_r3_tds_a,fighter 1 round 3 takedowns attempts
+101,f1_r3_subs_a,fighter 1 round 3 submissions attempts
+102,f1_r3_passes,fighter 1 round 3 passes
+103,f1_r3_revs,fighter 1 round 3 reversals
+104,f1_r3_ss_head_l,fighter 1 round 3 significant strikes to the head landed
+105,f1_r3_ss_head_a,fighter 1 round 3 significant strikes to the head attempts
+106,f1_r3_ss_body_l,fighter 1 round 3 significant strikes to the body landed
+107,f1_r3_ss_body_a,fighter 1 round 3 significant strikes to the body attempts
+108,f1_r3_ss_leg_l,fighter 1 round 3 significant strikes to the leg landed
+109,f1_r3_ss_leg_a,fighter 1 round 3 significant strikes to the leg attempts
+110,f1_r3_ss_dist_l,fighter 1 round 3 significant strikes dist landed
+111,f1_r3_ss_dist_a,fighter 1 round 3 significant strikes dist attempts
+112,f1_r3_ss_clinch_l,fighter 1 round 3 significant strikes from clinch landed
+113,f1_r3_ss_clinch_a,fighter 1 round 3 significant strikes from clinch attempts
+114,f1_r3_ss_ground_l,fighter 1 round 3 significant strikes from ground landed
+115,f1_r3_ss_ground_a,fighter 1 round 3 significant strikes from ground attempts
+116,f2_r3_kds,fighter 2 round 3 knockdowns
+117,f2_r3_sigstrikes_l,fighter 2 round 3 significant strikes landed
+118,f2_r3_sigstrikes_a,fighter 2 round 3 significant strikes attempts
+119,f2_r3_strikes_l,fighter 2 round 3 strikes landed
+120,f2_r3_strikes_a,fighter 2 round 3 strikes attempts
+121,f2_r3_tds_l,fighter 2 round 3 takedowns landed
+122,f2_r3_tds_a,fighter 2 round 3 takedowns attempts
+123,f2_r3_subs_a,fighter 2 round 3 submissions attempts
+124,f2_r3_passes,fighter 2 round 3 passes
+125,f2_r3_revs,fighter 2 round 3 reversals
+126,f2_r3_ss_head_l,fighter 2 round 3 significant strikes to the head landed
+127,f2_r3_ss_head_a,fighter 2 round 3 significant strikes to the head attempts
+128,f2_r3_ss_body_l,fighter 2 round 3 significant strikes to the body landed
+129,f2_r3_ss_body_a,fighter 2 round 3 significant strikes to the body attempts
+130,f2_r3_ss_leg_l,fighter 2 round 3 significant strikes to the leg landed
+131,f2_r3_ss_leg_a,fighter 2 round 3 significant strikes to the leg attempts
+132,f2_r3_ss_dist_l,fighter 2 round 3 significant strikes dist landed
+133,f2_r3_ss_dist_a,fighter 2 round 3 significant strikes dist attempts
+134,f2_r3_ss_clinch_l,fighter 2 round 3 significant strikes from clinch landed
+135,f2_r3_ss_clinch_a,fighter 2 round 3 significant strikes from clinch attempts
+136,f2_r3_ss_ground_l,fighter 2 round 3 significant strikes from ground landed
+137,f2_r3_ss_ground_a,fighter 2 round 3 significant strikes from ground attempts
+138,f1_r4_kds,fighter 1 round 4 knockdowns
+139,f1_r4_sigstrikes_l,fighter 1 round 4 significant strikes landed
+140,f1_r4_sigstrikes_a,fighter 1 round 4 significant strikes attempts
+141,f1_r4_strikes_l,fighter 1 round 4 strikes landed
+142,f1_r4_strikes_a,fighter 1 round 4 strikes attempts
+143,f1_r4_tds_l,fighter 1 round 4 takedowns landed
+144,f1_r4_tds_a,fighter 1 round 4 takedowns attempts
+145,f1_r4_subs_a,fighter 1 round 4 submissions attempts
+146,f1_r4_passes,fighter 1 round 4 passes
+147,f1_r4_revs,fighter 1 round 4 reversals
+148,f1_r4_ss_head_l,fighter 1 round 4 significant strikes to the head landed
+149,f1_r4_ss_head_a,fighter 1 round 4 significant strikes to the head attempts
+150,f1_r4_ss_body_l,fighter 1 round 4 significant strikes to the body landed
+151,f1_r4_ss_body_a,fighter 1 round 4 significant strikes to the body attempts
+152,f1_r4_ss_leg_l,fighter 1 round 4 significant strikes to the leg landed
+153,f1_r4_ss_leg_a,fighter 1 round 4 significant strikes to the leg attempts
+154,f1_r4_ss_dist_l,fighter 1 round 4 significant strikes dist landed
+155,f1_r4_ss_dist_a,fighter 1 round 4 significant strikes dist attempts
+156,f1_r4_ss_clinch_l,fighter 1 round 4 significant strikes from clinch landed
+157,f1_r4_ss_clinch_a,fighter 1 round 4 significant strikes from clinch attempts
+158,f1_r4_ss_ground_l,fighter 1 round 4 significant strikes from ground landed
+159,f1_r4_ss_ground_a,fighter 1 round 4 significant strikes from ground attempts
+160,f2_r4_kds,fighter 2 round 4 knockdowns
+161,f2_r4_sigstrikes_l,fighter 2 round 4 significant strikes landed
+162,f2_r4_sigstrikes_a,fighter 2 round 4 significant strikes attempts
+163,f2_r4_strikes_l,fighter 2 round 4 strikes landed
+164,f2_r4_strikes_a,fighter 2 round 4 strikes attempts
+165,f2_r4_tds_l,fighter 2 round 4 takedowns landed
+166,f2_r4_tds_a,fighter 2 round 4 takedowns attempts
+167,f2_r4_subs_a,fighter 2 round 4 submissions attempts
+168,f2_r4_passes,fighter 2 round 4 passes
+169,f2_r4_revs,fighter 2 round 4 reversals
+170,f2_r4_ss_head_l,fighter 2 round 4 significant strikes to the head landed
+171,f2_r4_ss_head_a,fighter 2 round 4 significant strikes to the head attempts
+172,f2_r4_ss_body_l,fighter 2 round 4 significant strikes to the body landed
+173,f2_r4_ss_body_a,fighter 2 round 4 significant strikes to the body attempts
+174,f2_r4_ss_leg_l,fighter 2 round 4 significant strikes to the leg landed
+175,f2_r4_ss_leg_a,fighter 2 round 4 significant strikes to the leg attempts
+176,f2_r4_ss_dist_l,fighter 2 round 4 significant strikes dist landed
+177,f2_r4_ss_dist_a,fighter 2 round 4 significant strikes dist attempts
+178,f2_r4_ss_clinch_l,fighter 2 round 4 significant strikes from clinch landed
+179,f2_r4_ss_clinch_a,fighter 2 round 4 significant strikes from clinch attempts
+180,f2_r4_ss_ground_l,fighter 2 round 4 significant strikes from ground landed
+181,f2_r4_ss_ground_a,fighter 2 round 4 significant strikes from ground attempts
+182,f1_r5_kds,fighter 1 round 5 knockdowns
+183,f1_r5_sigstrikes_l,fighter 1 round 5 significant strikes landed
+184,f1_r5_sigstrikes_a,fighter 1 round 5 significant strikes attempts
+185,f1_r5_strikes_l,fighter 1 round 5 strikes landed
+186,f1_r5_strikes_a,fighter 1 round 5 strikes attempts
+187,f1_r5_tds_l,fighter 1 round 5 takedowns landed
+188,f1_r5_tds_a,fighter 1 round 5 takedowns attempts
+189,f1_r5_subs_a,fighter 1 round 5 submissions attempts
+190,f1_r5_passes,fighter 1 round 5 passes
+191,f1_r5_revs,fighter 1 round 5 reversals
+192,f1_r5_ss_head_l,fighter 1 round 5 significant strikes to the head landed
+193,f1_r5_ss_head_a,fighter 1 round 5 significant strikes to the head attempts
+194,f1_r5_ss_body_l,fighter 1 round 5 significant strikes to the body landed
+195,f1_r5_ss_body_a,fighter 1 round 5 significant strikes to the body attempts
+196,f1_r5_ss_leg_l,fighter 1 round 5 significant strikes to the leg landed
+197,f1_r5_ss_leg_a,fighter 1 round 5 significant strikes to the leg attempts
+198,f1_r5_ss_dist_l,fighter 1 round 5 significant strikes dist landed
+199,f1_r5_ss_dist_a,fighter 1 round 5 significant strikes dist attempts
+200,f1_r5_ss_clinch_l,fighter 1 round 5 significant strikes from clinch landed
+201,f1_r5_ss_clinch_a,fighter 1 round 5 significant strikes from clinch attempts
+202,f1_r5_ss_ground_l,fighter 1 round 5 significant strikes from ground landed
+203,f1_r5_ss_ground_a,fighter 1 round 5 significant strikes from ground attempts
+204,f2_r5_kds,fighter 2 round 5 knockdowns
+205,f2_r5_sigstrikes_l,fighter 2 round 5 significant strikes landed
+206,f2_r5_sigstrikes_a,fighter 2 round 5 significant strikes attempts
+207,f2_r5_strikes_l,fighter 2 round 5 strikes landed
+208,f2_r5_strikes_a,fighter 2 round 5 strikes attempts
+209,f2_r5_tds_l,fighter 2 round 5 takedowns landed
+210,f2_r5_tds_a,fighter 2 round 5 takedowns attempts
+211,f2_r5_subs_a,fighter 2 round 5 submissions attempts
+212,f2_r5_passes,fighter 2 round 5 passes
+213,f2_r5_revs,fighter 2 round 5 reversals
+214,f2_r5_ss_head_l,fighter 2 round 5 significant strikes to the head landed
+215,f2_r5_ss_head_a,fighter 2 round 5 significant strikes to the head attempts
+216,f2_r5_ss_body_l,fighter 2 round 5 significant strikes to the body landed
+217,f2_r5_ss_body_a,fighter 2 round 5 significant strikes to the body attempts
+218,f2_r5_ss_leg_l,fighter 2 round 5 significant strikes to the leg landed
+219,f2_r5_ss_leg_a,fighter 2 round 5 significant strikes to the leg attempts
+220,f2_r5_ss_dist_l,fighter 2 round 5 significant strikes dist landed
+221,f2_r5_ss_dist_a,fighter 2 round 5 significant strikes dist attempts
+222,f2_r5_ss_clinch_l,fighter 2 round 5 significant strikes from clinch landed
+223,f2_r5_ss_clinch_a,fighter 2 round 5 significant strikes from clinch attempts
+224,f2_r5_ss_ground_l,fighter 2 round 5 significant strikes from ground landed
+225,f2_r5_ss_ground_a,fighter 2 round 5 significant strikes from ground attempts
